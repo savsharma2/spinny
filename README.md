@@ -1,4 +1,4 @@
-# Shuttl Frontend Micro-task
+# Spinny Task Manager
 
 This is a super small task intended to not eat into too much of your time, because we understand that you may have a job, family, responsibilities, or just like to play games in your free time.
 
