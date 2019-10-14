@@ -1,0 +1,29 @@
+
+ul.todoList {
+    clear: both;
+    list-style: none;
+    margin: 0 20px;
+    padding: 20px 0;
+    width: 90%; 
+  }
+  
+  ul.todoList li {
+    margin: 10px 0;
+    padding: 12px 10px;
+    text-align: left;
+    font-size: 1.2em;
+    background: #a3c2fa;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .remove  {
+    margin-top: -160px;
+    float: right;
+    z-index: 1;
+  }
+  
+  ul.todoList li.complete {
+    background: #eee;
+    color: #ccc
+  }
+  
